@@ -1,0 +1,13 @@
+---
+title: Arebien designs
+subtitle: Sitting room furnishings
+layout: default
+modal-id: 1
+
+img: img1.png
+thumbnail: img1-thumbnail.png
+alt: image-alt
+
+description: .
+
+---

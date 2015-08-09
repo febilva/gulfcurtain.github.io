@@ -1,0 +1,15 @@
+---
+title: Roman blinds
+subtitle: For bed rooms
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: img2.png
+thumbnail: img2-thumbnail.png
+alt: image-alt
+
+
+category: Window curtains and blinds
+
+
+---

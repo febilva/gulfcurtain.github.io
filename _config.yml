@@ -1,0 +1,25 @@
+url: https://y7kim.github.io
+
+
+# Site settings
+title: GULF CURTAINS
+email: febil.tvr@gmail.com  
+description: "curtains makers in india-pin-680664,kerala,kodungallur,best curtain designs,new trendy curtains eyelet designs"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: fed136
+  secondary: fec503  
+  secondary-dark: 333
+
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: kodungallur
+  - line: thirussur,kerala,india-pin-680664
+  - line: phone:07034047758
+
+# Build settings
+markdown: kramdown
+permalink: pretty
