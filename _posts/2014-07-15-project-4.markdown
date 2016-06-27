@@ -8,7 +8,6 @@ img: img4.png
 thumbnail: img4-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
 category: Web Development
 description: all types of blinds curtains are available
 ---
