@@ -1,6 +1,6 @@
 ---
-title: Blinds curtains
-subtitle: Simple and easy to use
+title: Mixed color Curtains
+subtitle: Based on your wall color
 layout: default
 modal-id: 3
 date: 2014-07-16
