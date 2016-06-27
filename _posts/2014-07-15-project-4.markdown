@@ -1,15 +1,14 @@
 ---
-title: Color combo
-subtitle: For all windows
+title: Blinds curtains
+subtitle: Simple and easy to use
 layout: default
-modal-id: 4
-date: 2014-07-15
+modal-id: 3
+date: 2014-07-16
 img: img4.png
 thumbnail: img4-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description:color combo 
-
+description: all types of blinds curtains are available
 ---
